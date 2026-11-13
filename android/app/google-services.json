@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "286521285108",
+    "project_id": "somalease-7046f",
+    "storage_bucket": "somalease-7046f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286521285108:android:f2a7e1c2559ce961fd81a1",
+        "android_client_info": {
+          "package_name": "com.app.somalease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286521285108-gg761r1pp65q59h1coon3n7pb14t34hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3EHkFnuVGtt1ODZu0EgU33ARzlil80Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286521285108-gg761r1pp65q59h1coon3n7pb14t34hh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286521285108-9gvkf5pahlbc9c3oh0u02p90ddb4pddi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.somalease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
